@@ -100,6 +100,7 @@
 - 💻 GitHub：[https://github.com/wudi-question](https://github.com/wudi-question)  
 - 🌐 官网：[https://wudi.morijiu.cn](https://wudi.morijiu.cn)  
 - 📮 邮箱：1092257069@qq.com  
+- 💬 **加入 QQ 内测群：**`363334324`
 - 📢 欢迎提 Issue、提建议、提灵魂三问，我们都欢迎！
 
 ---
